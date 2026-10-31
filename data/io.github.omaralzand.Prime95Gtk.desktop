@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Prime95 GTK
+GenericName=CPU Stress Test
+Comment=Torture test and benchmark your CPU with Prime95
+Exec=prime95-gtk
+Icon=io.github.omaralzand.Prime95Gtk
+Terminal=false
+Categories=System;Monitor;
+Keywords=prime95;mprime;stress;torture;benchmark;cpu;stability;
+StartupWMClass=io.github.omaralzand.Prime95Gtk
